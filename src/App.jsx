@@ -5,14 +5,14 @@ function App() {
     <div className="min-h-screen flex items-center justify-center">
       <div className=" w-96 bg-base-100 shadow-xl rounded-md overflow-hidden">
         <img
-          src="/src/assets/images/bg-pattern-card.svg"
+          src="https://i.ibb.co/0jdHWfh/bg-pattern-card.jpg"
           className="w-full"
           alt=""
         />
         <div className="bg-white">
           <div className="flex justify-center">
             <img
-              src="/src/assets/images/image-victor.jpg"
+              src="https://i.ibb.co/TMSGqDj/image-victor.jpg"
               className="w-16 h-16 rounded-full border-2 border-white -mt-8"
               alt=""
             />
